@@ -1,6 +1,6 @@
 Hey! Just a little bit about me:
 
-Specialities: full-stack development, deep-learning, machine-learning, forecasting
+Specialities: full-stack development, deep-learning, computer-vision, natural-language-processing, forecasting
 
 Areas of Interest: Sustainability, Education, Equity
 
